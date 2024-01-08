@@ -17,4 +17,13 @@ Speedup achieved for each implentation is :
 2) 9.0 for multi threading
 3) 150.0 for GPU implementation.
 
-for full repository and code visit : link
+for full repository and code visit : https://github.com/Abhishekghosh1998/hpca-assignment-2023
+
+How to run:
+
+1)Clone the above github repository 
+
+2)replace  /PartA/header/single_thread.h , /PartA/header/multi_thread.h  and PartB/header/gpu_thread.h files with above files.
+
+3)running the program and everything can be seen in the readme file of that repository only.
+
